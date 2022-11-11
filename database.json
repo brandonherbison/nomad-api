@@ -1,0 +1,1094 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Jethro Stickels",
+      "email": "jstickels0@netlog.com",
+      "isAdmin": false
+    },
+    {
+      "id": 2,
+      "fullName": "Melvin Wince",
+      "email": "mwince1@quantcast.com",
+      "isAdmin": false
+    },
+    {
+      "id": 3,
+      "fullName": "Lock Burley",
+      "email": "lburley2@squidoo.com",
+      "isAdmin": false
+    },
+    {
+      "id": 4,
+      "fullName": "Cyb Canniffe",
+      "email": "ccanniffe3@opera.com",
+      "isAdmin": false
+    },
+    {
+      "id": 5,
+      "fullName": "Kleon Robard",
+      "email": "krobard4@bloomberg.com",
+      "isAdmin": false
+    },
+    {
+      "id": 6,
+      "fullName": "Conrado Steade",
+      "email": "csteade5@earthlink.net",
+      "isAdmin": false
+    },
+    {
+      "id": 7,
+      "fullName": "Roscoe Giannotti",
+      "email": "rgiannotti6@imdb.com",
+      "isAdmin": false
+    },
+    {
+      "id": 8,
+      "fullName": "Trumaine Buttrick",
+      "email": "tbuttrick7@tumblr.com",
+      "isAdmin": false
+    },
+    {
+      "id": 9,
+      "fullName": "Edd Landy",
+      "email": "elandy8@cmu.edu",
+      "isAdmin": false
+    },
+    {
+      "id": 10,
+      "fullName": "Brandon Herbison",
+      "email": "herbisonbrandon@gmail.com",
+      "isAdmin": true
+    },
+    {
+      "email": "rlosure@gmail.com",
+      "fullName": "Robert Losure",
+      "isAdmin": false,
+      "id": 11
+    },
+    {
+      "email": "notbatman@wayneenterprises.org",
+      "fullName": "Bruce Wayne",
+      "isAdmin": false,
+      "id": 12
+    },
+    {
+      "email": "rbob@wonderbread.co",
+      "fullName": "Ricky Bobby",
+      "isAdmin": false,
+      "id": 13
+    },
+    {
+      "email": "kadenevmar@yahoo.com",
+      "fullName": "Kade Martin",
+      "isAdmin": false,
+      "id": 14
+    }
+  ],
+  "starters": [
+    {
+      "id": 1,
+      "name": "Whipped Feta w/ Honey"
+    },
+    {
+      "id": 2,
+      "name": "Bacon Parmesan Asparagus Twists"
+    },
+    {
+      "id": 3,
+      "name": "New Orleans BBQ Shrimp"
+    },
+    {
+      "id": 4,
+      "name": "Million Dollar Shrimp & Crap Dip"
+    },
+    {
+      "id": 5,
+      "name": "Charcuterie Board"
+    }
+  ],
+  "mains": [
+    {
+      "id": 1,
+      "name": "45-Day Dry-Aged Ribeye (15oz)"
+    },
+    {
+      "id": 2,
+      "name": "Oven-Baked Lemon Butter Sockeye Salmon"
+    },
+    {
+      "id": 3,
+      "name": "Braised Monkfish w/ Almonds"
+    },
+    {
+      "id": 4,
+      "name": "Cast Iron Pan-Seared Pork Chop"
+    },
+    {
+      "id": 5,
+      "name": "Pan-Seared Chicken Breast w/ Lemon & Dill Sauce"
+    }
+  ],
+  "sides": [
+    {
+      "id": 1,
+      "name": "Oven Roasted Broccolini"
+    },
+    {
+      "id": 2,
+      "name": "Truffle Fries"
+    },
+    {
+      "id": 3,
+      "name": "Sautéed Mushrooms"
+    },
+    {
+      "id": 4,
+      "name": "Twice-Baked Potato"
+    },
+    {
+      "id": 5,
+      "name": "Crispy Brussels Sprouts"
+    }
+  ],
+  "desserts": [
+    {
+      "id": 1,
+      "name": "Skillet Chocolate Chip Cookie"
+    },
+    {
+      "id": 2,
+      "name": "Strawberry Shortcake"
+    },
+    {
+      "id": 3,
+      "name": "Tiramisu"
+    }
+  ],
+  "bookings": [
+    {
+      "userId": 13,
+      "guestTotal": "15",
+      "location": "123 Main St",
+      "occasion": "Post Win Celebration",
+      "date": "2022-09-28",
+      "time": "7:00pm",
+      "price": 2375,
+      "drinkPackage": true,
+      "isApproved": true,
+      "id": 1
+    },
+    {
+      "userId": 9,
+      "guestTotal": "10",
+      "location": "123 S Main St.",
+      "occasion": "Christmas Dinner Party",
+      "date": "2022-12-20",
+      "time": "8:00pm",
+      "price": 1750,
+      "drinkPackage": true,
+      "isApproved": true,
+      "id": 3
+    },
+    {
+      "userId": 7,
+      "guestTotal": "10",
+      "location": "123 main st",
+      "occasion": "Dinner Party",
+      "date": "2022-09-28",
+      "time": "7:00pm",
+      "price": 1250,
+      "drinkPackage": false,
+      "isApproved": true,
+      "id": 4
+    },
+    {
+      "userId": 4,
+      "guestTotal": "5",
+      "location": "12343 Main St",
+      "occasion": "Dinner Party",
+      "date": "2022-10-08",
+      "time": "8:00pm",
+      "price": 625,
+      "drinkPackage": false,
+      "isApproved": true,
+      "id": 8
+    },
+    {
+      "userId": 2,
+      "guestTotal": "10",
+      "location": "123 main st",
+      "occasion": "dinner party",
+      "date": "2022-10-07",
+      "time": "7:00pm",
+      "price": 1750,
+      "drinkPackage": true,
+      "isApproved": true,
+      "id": 9
+    },
+    {
+      "userId": 14,
+      "guestTotal": "15",
+      "location": "1020 Fernway Rd.",
+      "occasion": "Max's Birthday Bash",
+      "date": "2023-05-26",
+      "time": "8:00pm",
+      "price": 2375,
+      "drinkPackage": true,
+      "isApproved": true,
+      "id": 10
+    },
+    {
+      "userId": 6,
+      "guestTotal": "15",
+      "location": "123 Poop Street",
+      "occasion": "Bachelor Party",
+      "date": "2022-10-27",
+      "time": "8:00pm",
+      "price": 2375,
+      "drinkPackage": true,
+      "isApproved": true,
+      "id": 11
+    },
+    {
+      "userId": 8,
+      "guestTotal": "10",
+      "location": "1234 Main St",
+      "occasion": "Dinner Party",
+      "date": "2022-10-19",
+      "time": "8:00pm",
+      "price": 1750,
+      "drinkPackage": true,
+      "isApproved": true,
+      "id": 12
+    },
+    {
+      "userId": 12,
+      "guestTotal": "15",
+      "location": "123 main st",
+      "occasion": "Alfreds Bday Bash",
+      "date": "2022-11-16",
+      "time": "8:00pm",
+      "price": 2375,
+      "drinkPackage": true,
+      "isApproved": true,
+      "id": 13
+    },
+    {
+      "userId": 5,
+      "guestTotal": "15",
+      "location": "123 Main St.",
+      "occasion": "Dinner Party",
+      "date": "2022-11-10",
+      "time": "8:00pm",
+      "price": 2375,
+      "drinkPackage": true,
+      "isApproved": true,
+      "id": 14
+    }
+  ],
+  "starterChoices": [
+    {
+      "bookingId": 1,
+      "starterId": 1,
+      "quantity": 7,
+      "id": 1
+    },
+    {
+      "bookingId": 1,
+      "starterId": 2,
+      "quantity": 7,
+      "id": 2
+    },
+    {
+      "bookingId": 3,
+      "starterId": 1,
+      "quantity": 3,
+      "id": 5
+    },
+    {
+      "bookingId": 3,
+      "starterId": 2,
+      "quantity": 3,
+      "id": 6
+    },
+    {
+      "bookingId": 3,
+      "starterId": 3,
+      "quantity": 3,
+      "id": 7
+    },
+    {
+      "bookingId": 3,
+      "starterId": 4,
+      "quantity": 1,
+      "id": 8
+    },
+    {
+      "bookingId": 4,
+      "starterId": 1,
+      "quantity": 3,
+      "id": 9
+    },
+    {
+      "bookingId": 4,
+      "starterId": 2,
+      "quantity": 3,
+      "id": 10
+    },
+    {
+      "bookingId": 4,
+      "starterId": 3,
+      "quantity": 3,
+      "id": 11
+    },
+    {
+      "bookingId": 8,
+      "starterId": 1,
+      "quantity": 5,
+      "id": 24
+    },
+    {
+      "bookingId": 9,
+      "starterId": 1,
+      "quantity": 3,
+      "id": 25
+    },
+    {
+      "bookingId": 9,
+      "starterId": 2,
+      "quantity": 3,
+      "id": 26
+    },
+    {
+      "bookingId": 9,
+      "starterId": 3,
+      "quantity": 3,
+      "id": 27
+    },
+    {
+      "bookingId": 9,
+      "starterId": 4,
+      "quantity": 1,
+      "id": 28
+    },
+    {
+      "bookingId": 10,
+      "starterId": 1,
+      "quantity": 5,
+      "id": 29
+    },
+    {
+      "bookingId": 10,
+      "starterId": 2,
+      "quantity": 5,
+      "id": 30
+    },
+    {
+      "bookingId": 10,
+      "starterId": 3,
+      "quantity": 5,
+      "id": 31
+    },
+    {
+      "bookingId": 11,
+      "starterId": 1,
+      "quantity": 5,
+      "id": 32
+    },
+    {
+      "bookingId": 11,
+      "starterId": 2,
+      "quantity": 5,
+      "id": 33
+    },
+    {
+      "bookingId": 11,
+      "starterId": 3,
+      "quantity": 5,
+      "id": 34
+    },
+    {
+      "bookingId": 12,
+      "starterId": 1,
+      "quantity": 5,
+      "id": 35
+    },
+    {
+      "bookingId": 12,
+      "starterId": 2,
+      "quantity": 2,
+      "id": 36
+    },
+    {
+      "bookingId": 12,
+      "starterId": 3,
+      "quantity": 3,
+      "id": 37
+    },
+    {
+      "bookingId": 13,
+      "starterId": 1,
+      "quantity": 5,
+      "id": 38
+    },
+    {
+      "bookingId": 13,
+      "starterId": 2,
+      "quantity": 5,
+      "id": 39
+    },
+    {
+      "bookingId": 13,
+      "starterId": 3,
+      "quantity": 5,
+      "id": 40
+    },
+    {
+      "bookingId": 14,
+      "starterId": 1,
+      "quantity": 5,
+      "id": 41
+    },
+    {
+      "bookingId": 14,
+      "starterId": 2,
+      "quantity": 5,
+      "id": 42
+    },
+    {
+      "bookingId": 14,
+      "starterId": 3,
+      "quantity": 5,
+      "id": 43
+    }
+  ],
+  "mainChoices": [
+    {
+      "bookingId": 1,
+      "mainId": 2,
+      "quantity": 5,
+      "id": 1
+    },
+    {
+      "bookingId": 1,
+      "mainId": 3,
+      "quantity": 5,
+      "id": 2
+    },
+    {
+      "bookingId": 1,
+      "mainId": 4,
+      "quantity": 5,
+      "id": 3
+    },
+    {
+      "bookingId": 3,
+      "mainId": 1,
+      "quantity": 4,
+      "id": 7
+    },
+    {
+      "bookingId": 3,
+      "mainId": 2,
+      "quantity": 2,
+      "id": 8
+    },
+    {
+      "bookingId": 3,
+      "mainId": 4,
+      "quantity": 2,
+      "id": 9
+    },
+    {
+      "bookingId": 3,
+      "mainId": 5,
+      "quantity": 2,
+      "id": 10
+    },
+    {
+      "bookingId": 4,
+      "mainId": 1,
+      "quantity": 3,
+      "id": 11
+    },
+    {
+      "bookingId": 4,
+      "mainId": 4,
+      "quantity": 3,
+      "id": 12
+    },
+    {
+      "bookingId": 8,
+      "mainId": 1,
+      "quantity": 5,
+      "id": 24
+    },
+    {
+      "bookingId": 9,
+      "mainId": 1,
+      "quantity": 3,
+      "id": 25
+    },
+    {
+      "bookingId": 9,
+      "mainId": 2,
+      "quantity": 3,
+      "id": 26
+    },
+    {
+      "bookingId": 9,
+      "mainId": 3,
+      "quantity": 3,
+      "id": 27
+    },
+    {
+      "bookingId": 9,
+      "mainId": 4,
+      "quantity": 1,
+      "id": 28
+    },
+    {
+      "bookingId": 10,
+      "mainId": 1,
+      "quantity": 5,
+      "id": 29
+    },
+    {
+      "bookingId": 10,
+      "mainId": 2,
+      "quantity": 7,
+      "id": 30
+    },
+    {
+      "bookingId": 10,
+      "mainId": 5,
+      "quantity": 3,
+      "id": 31
+    },
+    {
+      "bookingId": 11,
+      "mainId": 1,
+      "quantity": 5,
+      "id": 32
+    },
+    {
+      "bookingId": 11,
+      "mainId": 2,
+      "quantity": 5,
+      "id": 33
+    },
+    {
+      "bookingId": 11,
+      "mainId": 3,
+      "quantity": 5,
+      "id": 34
+    },
+    {
+      "bookingId": 12,
+      "mainId": 1,
+      "quantity": 3,
+      "id": 35
+    },
+    {
+      "bookingId": 12,
+      "mainId": 2,
+      "quantity": 3,
+      "id": 36
+    },
+    {
+      "bookingId": 12,
+      "mainId": 3,
+      "quantity": 3,
+      "id": 37
+    },
+    {
+      "bookingId": 12,
+      "mainId": 4,
+      "quantity": 1,
+      "id": 38
+    },
+    {
+      "bookingId": 13,
+      "mainId": 1,
+      "quantity": 5,
+      "id": 39
+    },
+    {
+      "bookingId": 13,
+      "mainId": 2,
+      "quantity": 5,
+      "id": 40
+    },
+    {
+      "bookingId": 13,
+      "mainId": 3,
+      "quantity": 5,
+      "id": 41
+    },
+    {
+      "bookingId": 14,
+      "mainId": 1,
+      "quantity": 5,
+      "id": 42
+    },
+    {
+      "bookingId": 14,
+      "mainId": 2,
+      "quantity": 5,
+      "id": 43
+    },
+    {
+      "bookingId": 14,
+      "mainId": 3,
+      "quantity": 5,
+      "id": 44
+    }
+  ],
+  "sideChoices": [
+    {
+      "bookingId": 1,
+      "sideId": 1,
+      "quantity": 7,
+      "id": 1
+    },
+    {
+      "bookingId": 1,
+      "sideId": 2,
+      "quantity": 8,
+      "id": 2
+    },
+    {
+      "bookingId": 3,
+      "sideId": 1,
+      "quantity": 3,
+      "id": 6
+    },
+    {
+      "bookingId": 3,
+      "sideId": 2,
+      "quantity": 2,
+      "id": 7
+    },
+    {
+      "bookingId": 3,
+      "sideId": 3,
+      "quantity": 2,
+      "id": 8
+    },
+    {
+      "bookingId": 3,
+      "sideId": 4,
+      "quantity": 1,
+      "id": 9
+    },
+    {
+      "bookingId": 3,
+      "sideId": 5,
+      "quantity": 2,
+      "id": 10
+    },
+    {
+      "bookingId": 4,
+      "sideId": 1,
+      "quantity": 4,
+      "id": 11
+    },
+    {
+      "bookingId": 4,
+      "sideId": 3,
+      "quantity": 2,
+      "id": 12
+    },
+    {
+      "bookingId": 4,
+      "sideId": 2,
+      "quantity": 4,
+      "id": 13
+    },
+    {
+      "bookingId": 8,
+      "sideId": 1,
+      "quantity": 5,
+      "id": 26
+    },
+    {
+      "bookingId": 9,
+      "sideId": 1,
+      "quantity": 3,
+      "id": 27
+    },
+    {
+      "bookingId": 9,
+      "sideId": 4,
+      "quantity": 1,
+      "id": 28
+    },
+    {
+      "bookingId": 9,
+      "sideId": 2,
+      "quantity": 3,
+      "id": 29
+    },
+    {
+      "bookingId": 9,
+      "sideId": 3,
+      "quantity": 3,
+      "id": 30
+    },
+    {
+      "bookingId": 10,
+      "sideId": 2,
+      "quantity": 1,
+      "id": 31
+    },
+    {
+      "bookingId": 10,
+      "sideId": 1,
+      "quantity": 4,
+      "id": 32
+    },
+    {
+      "bookingId": 10,
+      "sideId": 3,
+      "quantity": 5,
+      "id": 33
+    },
+    {
+      "bookingId": 10,
+      "sideId": 5,
+      "quantity": 5,
+      "id": 34
+    },
+    {
+      "bookingId": 11,
+      "sideId": 1,
+      "quantity": 5,
+      "id": 35
+    },
+    {
+      "bookingId": 11,
+      "sideId": 2,
+      "quantity": 5,
+      "id": 36
+    },
+    {
+      "bookingId": 11,
+      "sideId": 3,
+      "quantity": 5,
+      "id": 37
+    },
+    {
+      "bookingId": 12,
+      "sideId": 1,
+      "quantity": 5,
+      "id": 38
+    },
+    {
+      "bookingId": 12,
+      "sideId": 2,
+      "quantity": 5,
+      "id": 39
+    },
+    {
+      "bookingId": 13,
+      "sideId": 1,
+      "quantity": 5,
+      "id": 40
+    },
+    {
+      "bookingId": 13,
+      "sideId": 2,
+      "quantity": 5,
+      "id": 41
+    },
+    {
+      "bookingId": 13,
+      "sideId": 3,
+      "quantity": 5,
+      "id": 42
+    },
+    {
+      "bookingId": 14,
+      "sideId": 1,
+      "quantity": 5,
+      "id": 43
+    },
+    {
+      "bookingId": 14,
+      "sideId": 3,
+      "quantity": 5,
+      "id": 44
+    },
+    {
+      "bookingId": 14,
+      "sideId": 2,
+      "quantity": 5,
+      "id": 45
+    }
+  ],
+  "dessertChoices": [
+    {
+      "bookingId": 1,
+      "dessertId": 1,
+      "quantity": 10,
+      "id": 1
+    },
+    {
+      "bookingId": 3,
+      "dessertId": 1,
+      "quantity": 4,
+      "id": 3
+    },
+    {
+      "bookingId": 3,
+      "dessertId": 2,
+      "quantity": 4,
+      "id": 4
+    },
+    {
+      "bookingId": 3,
+      "dessertId": 3,
+      "quantity": 2,
+      "id": 5
+    },
+    {
+      "bookingId": 4,
+      "dessertId": 1,
+      "quantity": 4,
+      "id": 6
+    },
+    {
+      "bookingId": 4,
+      "dessertId": 2,
+      "quantity": 4,
+      "id": 7
+    },
+    {
+      "bookingId": 8,
+      "dessertId": 1,
+      "quantity": 5,
+      "id": 16
+    },
+    {
+      "bookingId": 9,
+      "dessertId": 2,
+      "quantity": 3,
+      "id": 17
+    },
+    {
+      "bookingId": 9,
+      "dessertId": 1,
+      "quantity": 3,
+      "id": 18
+    },
+    {
+      "bookingId": 9,
+      "dessertId": 3,
+      "quantity": 3,
+      "id": 19
+    },
+    {
+      "bookingId": 10,
+      "dessertId": 1,
+      "quantity": 5,
+      "id": 20
+    },
+    {
+      "bookingId": 10,
+      "dessertId": 2,
+      "quantity": 5,
+      "id": 21
+    },
+    {
+      "bookingId": 10,
+      "dessertId": 3,
+      "quantity": 5,
+      "id": 22
+    },
+    {
+      "bookingId": 11,
+      "dessertId": 2,
+      "quantity": 5,
+      "id": 23
+    },
+    {
+      "bookingId": 11,
+      "dessertId": 3,
+      "quantity": 5,
+      "id": 24
+    },
+    {
+      "bookingId": 11,
+      "dessertId": 1,
+      "quantity": 5,
+      "id": 25
+    },
+    {
+      "bookingId": 12,
+      "dessertId": 1,
+      "quantity": 3,
+      "id": 26
+    },
+    {
+      "bookingId": 12,
+      "dessertId": 2,
+      "quantity": 3,
+      "id": 27
+    },
+    {
+      "bookingId": 12,
+      "dessertId": 3,
+      "quantity": 4,
+      "id": 28
+    },
+    {
+      "bookingId": 13,
+      "dessertId": 1,
+      "quantity": 5,
+      "id": 29
+    },
+    {
+      "bookingId": 13,
+      "dessertId": 2,
+      "quantity": 5,
+      "id": 30
+    },
+    {
+      "bookingId": 13,
+      "dessertId": 3,
+      "quantity": 5,
+      "id": 31
+    },
+    {
+      "bookingId": 14,
+      "dessertId": 1,
+      "quantity": 5,
+      "id": 32
+    },
+    {
+      "bookingId": 14,
+      "dessertId": 2,
+      "quantity": 5,
+      "id": 33
+    },
+    {
+      "bookingId": 14,
+      "dessertId": 3,
+      "quantity": 5,
+      "id": 34
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "userId": 3,
+      "title": "Great Service!",
+      "body": "Nomad Kitchen treated us like family. The food was delicious and the service was outstanding. Five stars!"
+    },
+    {
+      "userId": 7,
+      "title": "Wonderful experience!",
+      "body": "10/10 will recommend to others. This was an absolute blast. The food was amazing!",
+      "id": 2
+    },
+    {
+      "userId": 13,
+      "title": "Super Unique",
+      "body": "Never before have I experienced such hospitality. Very professional. Will Book again!",
+      "id": 4
+    },
+    {
+      "userId": 9,
+      "title": "Extraordinary",
+      "body": "Can't believe this service exists! My friends and family had a fantastic time. Food was terrific.",
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "title": "Food was Great!!",
+      "body": "Will recommend to all of my friends!",
+      "id": 6
+    }
+  ],
+  "messages": [
+    {
+      "userId": 8,
+      "body": "Hey Trumaine! Unfortunately, we are fully booked on NYE. I am very sorry. We do still have availability for the days before and after. Edit your request and change the dates if you wish to proceed.",
+      "isArchived": true,
+      "id": 1
+    },
+    {
+      "userId": 12,
+      "body": "Please reschedule for 8PM as it will take longer to prepare the food for a party of this size. Thank you.",
+      "isArchived": true,
+      "id": 2
+    },
+    {
+      "userId": 5,
+      "body": "Hey Kleon! Would it be possible for us to start your dinner party at 7PM? Unfortunately there is a slight scheduling conflict. If you are able to make this work please edit and resubmit your reservation!",
+      "isArchived": true,
+      "id": 3
+    },
+    {
+      "userId": 4,
+      "body": "Time conflict. Please push back to 8PM. Thanks.",
+      "isArchived": true,
+      "id": 4
+    },
+    {
+      "userId": 5,
+      "body": "test",
+      "isArchived": true,
+      "id": 5
+    },
+    {
+      "userId": 5,
+      "body": "test",
+      "isArchived": true,
+      "id": 6
+    },
+    {
+      "userId": 2,
+      "body": "If you could please move your time up to 7PM. Thanks.",
+      "isArchived": true,
+      "id": 7
+    },
+    {
+      "userId": 14,
+      "body": "Kade, can you please reschedule for 8PM. Unfortunately there is a slight scheduling conflict. Thanks.",
+      "isArchived": true,
+      "id": 8
+    },
+    {
+      "userId": 6,
+      "body": "Hey Conrado! If you could please reschedule for 8PM to avoid a time conflict. Thank you.",
+      "isArchived": true,
+      "id": 9
+    },
+    {
+      "userId": 12,
+      "body": "Hey Bruce! Could you reschedule for 8PM? Thank you.",
+      "isArchived": true,
+      "id": 10
+    },
+    {
+      "userId": 8,
+      "body": "Hey Trumaine! Any chance you could push the party back til 8PM? Slight scheduling conflict. So sorry!",
+      "isArchived": true,
+      "id": 11
+    },
+    {
+      "userId": 12,
+      "body": "Hey Bruce, could we push it back to 8PM? Thanks.",
+      "isArchived": true,
+      "id": 12
+    },
+    {
+      "userId": 5,
+      "body": "Hey Kleon! Could you reschedule for 8PM? Small scheduling conflict. Thanks.",
+      "isArchived": true,
+      "id": 13
+    }
+  ]
+}
